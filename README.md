@@ -19,8 +19,7 @@ El proyecto contiene:
 ## 🚀 Instalación
 
 ```bash
-git clone <repositorio>
-cd <carpeta-del-proyecto>
+git clone https://github.com/ccarisastete/relke-qa-junior.git
 npm install
 # Instala Playwright con sus browsers
 npx playwright install
